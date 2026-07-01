@@ -81,7 +81,7 @@ After deploying the SIEM platform, a Windows 11 endpoint was enrolled into the W
 
 > IP address intentionally hidden for security reasons.
 
-![Windows Agent](screenshots/03-Windows-Agent-Active.png)
+![Windows Agent](windows-agent.png)
 
 The endpoint **DESKTOP-MARCIO** successfully connected to the manager and its status changed to **Active**.
 
