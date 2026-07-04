@@ -241,16 +241,25 @@ These activities represent the first steps of security event investigation withi
 
 ---
 
-# 📖 References
+## 📚 References
 
-- Wazuh Official Documentation
-- Windows Security Auditing Documentation
+- Wazuh Documentation
+  https://documentation.wazuh.com/current/
+
+- Wazuh Threat Hunting
+  https://documentation.wazuh.com/current/user-manual/wazuh-dashboard/threat-hunting/
+
+- Windows Security Auditing
+  https://learn.microsoft.com/windows/security/threat-protection/auditing/
+
+- Windows Event IDs
+  https://learn.microsoft.com/windows/security/threat-protection/auditing/security-auditing-overview
+
 - Docker Documentation
-
+  https://docs.docker.com/
 ---
 
 ## 👨‍💻 Author
 
-**Marcio Braga**
-
-Cybersecurity Student • SOC Analyst (Junior Path) • Blue Team • Wazuh SIEM
+Marcio Braga
+Cybersecurity Student | SOC Analyst (Junior Path) | Blue Team | Wazuh SIEM | AWS Cloud Security (Learning)
