@@ -65,7 +65,7 @@ MITRE ATT&CK Mapping
 
 Initially, Sysmon was not installed on the endpoint.
 
-![Sysmon Not Installed](images/01-sysmon-not-installed.png)
+![Sysmon Not Installed](01-sysmon-not-installed.png)
 
 ---
 
