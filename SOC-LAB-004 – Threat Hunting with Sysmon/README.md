@@ -51,7 +51,7 @@ Because attackers frequently execute this command during the **Discovery** phase
 
 ## Figure 1 – Wazuh Alert Overview
 
-![Figure 1 - Wazuh Alert Overview](Alert-Overview.png)
+![Figure 1 - Wazuh Alert Overview](alert-overview.png)
 
 *Figure 1 shows the Wazuh alert summary, including the detection rule, severity, MITRE ATT&CK mapping, and the affected endpoint.*
 
@@ -59,7 +59,7 @@ Because attackers frequently execute this command during the **Discovery** phase
 
 ## Figure 2 – Event Details
 
-![Figure 2 - Event Details](Event-Details.png)
+![Figure 2 - Event Details](event-details.png)
 
 *Figure 2 presents the Sysmon event details, including the executed command, process information, user context, hashes, and process identifiers used during the investigation.*
 
