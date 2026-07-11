@@ -1,4 +1,4 @@
-# Case Study 4 – Suspicious File Creation
+# Case Study 04 – Suspicious File Creation
 
 ## Scenario
 
