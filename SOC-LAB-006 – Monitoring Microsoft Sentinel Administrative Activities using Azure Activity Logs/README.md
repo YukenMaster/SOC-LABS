@@ -155,7 +155,7 @@ The returned results confirmed successful detection of Analytics Rule administra
 ### Evidence
 
 <p align="center">
-  <img src="images/sentinel-alert-rule-monitoring.png" alt="Microsoft Sentinel Administrative Activities" width="1000">
+  <img src="deteccao-exclusao-regra-sentinel" alt="Microsoft Sentinel Administrative Activities" width="1000">
 </p>
 
 ---
